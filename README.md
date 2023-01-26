@@ -7,5 +7,7 @@ Recently, Kelvin began publishing his weather forecasts on his website. However 
 With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit.
 
 Kelvin, Celsius, and Fahrenheit thermometers
-https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg
+
+<img alt="kelvin" src=https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg>
+
 For example, 283 K converts to 10 °C which converts to 50 °F.
